@@ -143,4 +143,4 @@ To ensure high performance, the following indexes should be considered:
 
 ### **6. Conclusion**
 
-This database design ensures efficient data storage and retrieval for the custom CRM system, supporting key functionalities such as lead tracking, property management, user authentication, and activity auditing. By using normalized relational tables and indexing on frequently queried fields, the database will provide fast access to essential data for the real estate brokerage.
+This database design ensures efficient data storage and retrieval for the custom CRM system, supporting key functionalities such as lead tracking, property management, user authentication, and activity auditing. By using normalized relational tables and indexing on frequently queried fields, the database will provide fast access to essential data for the real estate brokerage. 

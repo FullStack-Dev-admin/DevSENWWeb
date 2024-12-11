@@ -49,4 +49,4 @@
 - **Workflow Testing**: Validates the CRM system’s overall workflow and user interactions.
 
 #### **3.3 Project Manager**
-- **Responsibilities**: Overseeing project timelines, deliverables, and ensuring that the system is built according to the requirements, with regular updates and communication between the team members.
+- **Responsibilities**: Overseeing project timelines, deliverables, and ensuring that the system is built according to the requirements, with regular updates and communication between the team members. 

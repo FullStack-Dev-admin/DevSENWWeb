@@ -132,4 +132,4 @@ The following flowchart represents the end-to-end process integrated into the CR
 
 **6.3 Monitoring and Alerts**
 - Implement real-time application performance monitoring with tools like New Relic.
-- Set up alerts for downtime or anomalies.
+- Set up alerts for downtime or anomalies. 
