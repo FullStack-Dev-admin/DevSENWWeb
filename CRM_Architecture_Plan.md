@@ -23,12 +23,12 @@ The CRM system will consist of the following major components:
    - MongoDB (optional): For unstructured or semi-structured data like logs or temporary datasets.
 
 4. **Third-Party Integrations**
-   - MLS: Data synchronization through RESO Web API or RETS.
+   - MLS: Data synchronization through RESO Web API or RETS(https://www.reso.org/reso-web-api/).
    - Email/SMS: Twilio, SendGrid for notifications.
    - Cloud Storage: AWS S3 for storing property images and documents.
 
 5. **Authentication and Security**
-   - JWT-based authentication.
+   - JWT-based authentication (https://jwt.io/introduction).
    - Role-based access control (RBAC).
 
 6. **DevOps and Deployment**
